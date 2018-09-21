@@ -1,0 +1,42 @@
+_repo: In-Partnership-Studies-in-story-telling_53729
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: 1855
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+  - agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Penn, Arthur
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2016-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The documents in the case, by B. Matthews and H.C. Bunner -- Venetian
+  glass, by B. Matthews -- The red silk handkerchief, by H.C. Bunner -- The seven
+  conversations of dear Jones and Baby Van Rensselaer, by B. Matthews and H.C. Bunner
+  -- The rival ghosts, by B. Matthews -- A letter and a paragraph, by H.C. Bunner
+  -- Playing a part, by B. Matthews -- Love in old cloathes, by H.C. Bunner.
+title: 'In Partnership: Studies in story-telling'
+url: http://www.gutenberg.org/ebooks/53729
